@@ -1,1 +1,1 @@
-["./image.png"]
+![Foto](./image.png)
